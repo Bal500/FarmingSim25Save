@@ -1,1 +1,1 @@
-C:\Users\[USERNAME]\Documents\My Games\FarmingSimulator2025
+C:\Users\USERNAME\Documents\My Games\FarmingSimulator2025
