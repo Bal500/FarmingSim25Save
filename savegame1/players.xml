@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<players>
+    <player uniqueUserId="JLBzQ70OlEDDxeDDKEbVLdwNlq+N/7wwlRoB0CSzXwI=" timeLastConnected="2025/08/20 18:57">
+        <style filename="dataS/character/playerM/playerM.xml">
+            <facegear color="1"/>
+            <onepiece color="1" name="empty"/>
+            <bottom color="2" name="leather"/>
+            <face color="1" name="head03"/>
+            <top color="1" name="leather"/>
+            <gloves color="2" name="kevlar"/>
+            <headgear color="5" name="cowboy"/>
+            <glasses color="1" name="empty"/>
+            <footwear color="1" name="cowboy"/>
+            <hairStyle color="19" name="hair03"/>
+            <beard color="19" name="fullBeard_head03"/>
+        </style>
+        <handTools>
+            <handTool uniqueId="HandToold4c11d6e78ddebaf9e4544d86165dd65"/>
+        </handTools>
+    </player>
+    <player uniqueUserId="TEN9gubogjVKvJcDoMQLp+TIGbWQDEd2PrUJr8HyJIY=" timeLastConnected="2025/08/20 18:57">
+        <style filename="dataS/character/playerM/playerM.xml">
+            <facegear color="1"/>
+            <onepiece color="1" name="mechanic"/>
+            <bottom color="5"/>
+            <face color="1" name="head03"/>
+            <top color="10"/>
+            <gloves color="8" name="mechanic"/>
+            <headgear color="25" name="headgearBandana"/>
+            <glasses color="1" name="vintage"/>
+            <footwear color="1" name="sandal02"/>
+            <hairStyle color="21" name="hair05"/>
+            <beard color="21" name="fullBeard_head03"/>
+        </style>
+        <handTools>
+            <handTool uniqueId="HandTool38ca5064139b61ea09210a17852992db"/>
+        </handTools>
+    </player>
+    <player uniqueUserId="z8lHi/IxNNMxrdksFLF90rRvs6DmGbcc+UsKD8xU/1o=" timeLastConnected="2025/08/17 01:51">
+        <style filename="dataS/character/playerM/playerM.xml">
+            <facegear color="1"/>
+            <onepiece color="1" name="empty"/>
+            <bottom color="1" name="jeans"/>
+            <face color="1" name="head01"/>
+            <top color="1" name="collaredShirt"/>
+            <gloves color="1" name="empty"/>
+            <headgear color="1" name="empty"/>
+            <glasses color="1" name="empty"/>
+            <footwear color="1" name="workBoots2"/>
+            <hairStyle color="6" name="hair02"/>
+            <beard color="6" name="empty"/>
+        </style>
+    </player>
+    <player uniqueUserId="xh1os2Vf7Sc67rGBxf33sdcBh6QLDUYlgNmW9d/C/u0=" timeLastConnected="2025/08/18 00:54">
+        <style filename="dataS/character/playerM/playerM.xml">
+            <facegear color="1"/>
+            <onepiece color="3" name="motionSuit"/>
+            <bottom color="5"/>
+            <face color="1" name="head03"/>
+            <top color="10"/>
+            <gloves color="8" name="empty"/>
+            <headgear color="12" name="empty"/>
+            <glasses color="1" name="empty"/>
+            <footwear color="1" name="sandal03"/>
+            <hairStyle color="6" name="hair16"/>
+            <beard color="6" name="empty"/>
+        </style>
+        <handTools>
+            <handTool uniqueId="HandToolf9c2a139692cf06c5967ac666a93dd51"/>
+        </handTools>
+    </player>
+</players>

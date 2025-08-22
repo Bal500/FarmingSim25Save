@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<environment>
+    <dayTime>935.291931</dayTime>
+    <currentDay>20</currentDay>
+    <currentMonotonicDay>20</currentMonotonicDay>
+    <realHourTimer>140666</realHourTimer>
+    <daysPerPeriod>1</daysPerPeriod>
+    <lighting>
+        <toneMapping slope="1.000000" toe="0.400000" shoulder="0.800000" blackClip="0.000000" whiteClip="0.040000"/>
+    </lighting>
+    <weather timeSinceLastRain="787">
+        <forecast>
+            <instance typeName="SUN" season="AUTUMN" variationIndex="3" startDay="20" startDayTime="39600000" duration="43200000"/>
+            <instance typeName="RAIN" season="AUTUMN" variationIndex="2" startDay="20" startDayTime="82800000" duration="3600000"/>
+            <instance typeName="SUN" season="AUTUMN" variationIndex="1" startDay="21" startDayTime="0" duration="28800000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="4" startDay="21" startDayTime="28800000" duration="21600000"/>
+            <instance typeName="SUN" season="AUTUMN" variationIndex="2" startDay="21" startDayTime="50400000" duration="25200000"/>
+            <instance typeName="CLOUDY" season="AUTUMN" variationIndex="1" startDay="21" startDayTime="75600000" duration="10800000"/>
+            <instance typeName="CLOUDY" season="WINTER" variationIndex="2" startDay="22" startDayTime="0" duration="32400000"/>
+            <instance typeName="SNOW" season="WINTER" variationIndex="3" startDay="22" startDayTime="32400000" duration="28800000"/>
+            <instance typeName="CLOUDY" season="WINTER" variationIndex="1" startDay="22" startDayTime="61200000" duration="25200000"/>
+            <instance typeName="CLOUDY" season="WINTER" variationIndex="4" startDay="23" startDayTime="0" duration="21600000"/>
+            <instance typeName="CLOUDY" season="WINTER" variationIndex="2" startDay="23" startDayTime="21600000" duration="28800000"/>
+            <instance typeName="CLOUDY" season="WINTER" variationIndex="1" startDay="23" startDayTime="50400000" duration="18000000"/>
+            <instance typeName="SUN" season="WINTER" variationIndex="1" startDay="23" startDayTime="68400000" duration="36000000"/>
+            <instance typeName="SUN" season="WINTER" variationIndex="3" startDay="24" startDayTime="18000000" duration="32400000"/>
+            <instance typeName="CLOUDY" season="WINTER" variationIndex="2" startDay="24" startDayTime="50400000" duration="21600000"/>
+            <instance typeName="SNOW" season="WINTER" variationIndex="3" startDay="24" startDayTime="72000000" duration="14400000"/>
+            <instance typeName="RAIN" season="SPRING" variationIndex="4" startDay="25" startDayTime="0" duration="3600000"/>
+            <instance typeName="RAIN" season="SPRING" variationIndex="4" startDay="25" startDayTime="3600000" duration="3600000"/>
+            <instance typeName="RAIN" season="SPRING" variationIndex="1" startDay="25" startDayTime="7200000" duration="7200000"/>
+            <instance typeName="CLOUDY" season="SPRING" variationIndex="1" startDay="25" startDayTime="14400000" duration="36000000"/>
+            <instance typeName="HAIL" season="SPRING" variationIndex="1" startDay="25" startDayTime="50400000" duration="7200000">
+                <hail perlinPercentage="6629"/>
+            </instance>
+            <instance typeName="RAIN" season="SPRING" variationIndex="2" startDay="25" startDayTime="57600000" duration="3600000"/>
+            <instance typeName="RAIN" season="SPRING" variationIndex="2" startDay="25" startDayTime="61200000" duration="7200000"/>
+            <instance typeName="RAIN" season="SPRING" variationIndex="3" startDay="25" startDayTime="68400000" duration="10800000"/>
+            <instance typeName="CLOUDY" season="SPRING" variationIndex="3" startDay="25" startDayTime="79200000" duration="25200000"/>
+            <instance typeName="SUN" season="SPRING" variationIndex="2" startDay="26" startDayTime="18000000" duration="21600000"/>
+            <instance typeName="HAIL" season="SPRING" variationIndex="1" startDay="26" startDayTime="39600000" duration="3600000">
+                <hail perlinPercentage="4530"/>
+            </instance>
+            <instance typeName="SUN" season="SPRING" variationIndex="2" startDay="26" startDayTime="43200000" duration="36000000"/>
+            <instance typeName="SUN" season="SPRING" variationIndex="4" startDay="26" startDayTime="79200000" duration="28800000"/>
+            <instance typeName="SUN" season="SPRING" variationIndex="3" startDay="27" startDayTime="21600000" duration="39600000"/>
+            <instance typeName="SUN" season="SPRING" variationIndex="4" startDay="27" startDayTime="61200000" duration="25200000"/>
+            <instance typeName="RAIN" season="SUMMER" variationIndex="4" startDay="28" startDayTime="0" duration="3600000"/>
+            <instance typeName="RAIN" season="SUMMER" variationIndex="1" startDay="28" startDayTime="3600000" duration="3600000"/>
+            <instance typeName="SUN" season="SUMMER" variationIndex="1" startDay="28" startDayTime="7200000" duration="25200000"/>
+            <instance typeName="SUN" season="SUMMER" variationIndex="1" startDay="28" startDayTime="32400000" duration="21600000"/>
+            <instance typeName="SUN" season="SUMMER" variationIndex="2" startDay="28" startDayTime="54000000" duration="28800000"/>
+            <instance typeName="TWISTER" season="SUMMER" variationIndex="1" startDay="28" startDayTime="82800000" duration="18000000">
+                <twister startPosX="278" startPosZ="-115" meterPerHour="150"/>
+            </instance>
+            <instance typeName="HAIL" season="SUMMER" variationIndex="2" startDay="29" startDayTime="14400000" duration="3600000">
+                <hail perlinPercentage="5044"/>
+            </instance>
+        </forecast>
+        <fog alpha="1.000000" visibilityAlpha="0.000000" duration="3600000.000000">
+            <target>
+                <groundFog coverageEdge0="0.217145" coverageEdge1="0.756754" extraHeight="10.048708" groundLevelDensity="0.169738" minValleyDepth="3.185263" startDayTimeMinutes="238" endDayTimeMinutes="576" weatherTypes="SUN CLOUDY"/>
+                <heightFog maxHeight="495.293915" groundLevelDensity="0.118853"/>
+            </target>
+            <last>
+                <groundFog coverageEdge0="0.252053" coverageEdge1="0.644690" extraHeight="5.347885" groundLevelDensity="0.233905" minValleyDepth="7.740483" startDayTimeMinutes="249" endDayTimeMinutes="480" weatherTypes="SUN CLOUDY"/>
+                <heightFog maxHeight="545.493530" groundLevelDensity="0.098149"/>
+            </last>
+        </fog>
+        <snow height="0.000000"/>
+        <ground wetness="0.000000"/>
+        <twister position="0.00 0.00 0.00" isSpawned="false" fadeDirection="0" fadeValue="0.000000" metersPerHour="0.000000"/>
+    </weather>
+    <snow physicalHeight="0.000000" height="0.000000"/>
+</environment>

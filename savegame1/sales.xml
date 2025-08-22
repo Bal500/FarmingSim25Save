@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<sales>
+    <item timeLeft="5" isGenerated="true" xmlFilename="data/vehicles/horsch/partner1600FT/partner1600FT.xml" age="27" price="8468" damage="0.454639" wear="0.742957" operatingTime="50648.902344"/>
+    <item timeLeft="19" isGenerated="true" xmlFilename="data/vehicles/poettinger/aerosemVT5000DD/aerosemVT5000DD.xml" age="27" price="38733" damage="0.215179" wear="0.744634" operatingTime="119419.281250"/>
+    <item timeLeft="32" isGenerated="true" xmlFilename="data/vehicles/johnDeere/c441R/c441R.xml" age="28" price="49421" damage="0.303708" wear="0.322677" operatingTime="112495.562500"/>
+    <item timeLeft="19" isGenerated="true" xmlFilename="data/vehicles/valtra/sSeries/sSeries.xml" age="17" price="116872" damage="0.578199" wear="0.957836" operatingTime="62334.496094">
+        <boughtConfiguration name="motor" id="4"/>
+        <boughtConfiguration name="rimColor" id="LIZARD_PINK1"/>
+    </item>
+    <item timeLeft="26" isGenerated="true" xmlFilename="data/vehicles/fendt/vario700/vario700.xml" age="33" price="114517" damage="0.584682" wear="0.430606" operatingTime="61172.082031"/>
+</sales>

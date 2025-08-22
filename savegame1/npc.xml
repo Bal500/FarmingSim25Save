@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<npcs>
+    <npc name="GRANDPA" spotUniqueId="GRANDPA_FARMHOUSE">
+        <player uniqueUserId="JLBzQ70OlEDDxeDDKEbVLdwNlq+N/7wwlRoB0CSzXwI=" numContacts="11">
+            <conversation uniqueId="b5e1820c87" numTriggered="1" lastMonotonicDay="6" lastDate="2025/08/15 21:51"/>
+            <conversation uniqueId="0eb8244863" numTriggered="2" lastMonotonicDay="6" lastDate="2025/08/15 21:52"/>
+            <conversation uniqueId="5b513c4a53" numTriggered="1" lastMonotonicDay="6" lastDate="2025/08/15 21:51"/>
+            <conversation uniqueId="a69f15c2c9" numTriggered="1" lastMonotonicDay="6" lastDate="2025/08/15 21:51"/>
+            <conversation uniqueId="0bc5b0ce93" numTriggered="4" lastMonotonicDay="6" lastDate="2025/08/15 21:52"/>
+            <conversation uniqueId="66409efb3f" numTriggered="1" lastMonotonicDay="6" lastDate="2025/08/15 21:51"/>
+            <conversation uniqueId="14df9c02fe" numTriggered="1" lastMonotonicDay="6" lastDate="2025/08/15 21:51"/>
+        </player>
+        <player uniqueUserId="xh1os2Vf7Sc67rGBxf33sdcBh6QLDUYlgNmW9d/C/u0=" numContacts="10">
+            <conversation uniqueId="54d7a45a34" numTriggered="1" lastMonotonicDay="6" lastDate="2025/08/15 21:54"/>
+            <conversation uniqueId="0eb8244863" numTriggered="2" lastMonotonicDay="6" lastDate="2025/08/15 21:44"/>
+            <conversation uniqueId="0bc5b0ce93" numTriggered="4" lastMonotonicDay="6" lastDate="2025/08/15 21:54"/>
+            <conversation uniqueId="6ac40cfb03" numTriggered="1" lastMonotonicDay="6" lastDate="2025/08/15 21:44"/>
+            <conversation uniqueId="943dfa6ad3" numTriggered="1" lastMonotonicDay="6" lastDate="2025/08/15 21:44"/>
+            <conversation uniqueId="55ed571b91" numTriggered="1" lastMonotonicDay="6" lastDate="2025/08/15 21:44"/>
+        </player>
+    </npc>
+    <npc name="FORESTER" spotUniqueId="FORESTER_SHED"/>
+    <npc name="FARMER" spotUniqueId="FARMER_HOUSE"/>
+    <npc name="HELPER" spotUniqueId="HELPER_HOUSE">
+        <player uniqueUserId="TEN9gubogjVKvJcDoMQLp+TIGbWQDEd2PrUJr8HyJIY=" numContacts="21">
+            <conversation uniqueId="b214a80a97" numTriggered="1" lastMonotonicDay="17" lastDate="2025/08/18 16:40"/>
+            <conversation uniqueId="c3ea0425d7" numTriggered="3" lastMonotonicDay="17" lastDate="2025/08/18 16:44"/>
+            <conversation uniqueId="f5e07f2c91" numTriggered="3" lastMonotonicDay="17" lastDate="2025/08/18 16:47"/>
+            <conversation uniqueId="f8be51b706" numTriggered="1" lastMonotonicDay="17" lastDate="2025/08/18 16:43"/>
+            <conversation uniqueId="ec29d0ce9e" numTriggered="1" lastMonotonicDay="17" lastDate="2025/08/18 16:42"/>
+            <conversation uniqueId="b7b177b9c9" numTriggered="3" lastMonotonicDay="17" lastDate="2025/08/18 16:44"/>
+            <conversation uniqueId="b4faf1a7f5" numTriggered="3" lastMonotonicDay="17" lastDate="2025/08/18 16:44"/>
+            <conversation uniqueId="613ba30131" numTriggered="1" lastMonotonicDay="17" lastDate="2025/08/18 16:44"/>
+            <conversation uniqueId="4c69445a24" numTriggered="1" lastMonotonicDay="17" lastDate="2025/08/18 16:42"/>
+            <conversation uniqueId="0c49b93be8" numTriggered="1" lastMonotonicDay="17" lastDate="2025/08/18 16:44"/>
+            <conversation uniqueId="f2e3846f18" numTriggered="1" lastMonotonicDay="17" lastDate="2025/08/18 16:44"/>
+            <conversation uniqueId="65b3289961" numTriggered="1" lastMonotonicDay="17" lastDate="2025/08/18 16:45"/>
+            <conversation uniqueId="883a7f2cff" numTriggered="1" lastMonotonicDay="17" lastDate="2025/08/18 16:46"/>
+        </player>
+    </npc>
+    <npc name="ANIMAL_DEALER" spotUniqueId="ANIMAL_DEALER_SHOP">
+        <player uniqueUserId="xh1os2Vf7Sc67rGBxf33sdcBh6QLDUYlgNmW9d/C/u0=" numContacts="12">
+            <conversation uniqueId="345249355c" numTriggered="1" lastMonotonicDay="6" lastDate="2025/08/15 21:47"/>
+            <conversation uniqueId="de95e1f457" numTriggered="2" lastMonotonicDay="6" lastDate="2025/08/15 21:48"/>
+            <conversation uniqueId="d7fd87a0fd" numTriggered="1" lastMonotonicDay="6" lastDate="2025/08/15 21:47"/>
+            <conversation uniqueId="bb0236da62" numTriggered="1" lastMonotonicDay="6" lastDate="2025/08/15 21:47"/>
+            <conversation uniqueId="f5c0f12c5a" numTriggered="1" lastMonotonicDay="6" lastDate="2025/08/15 21:47"/>
+            <conversation uniqueId="b6356d2402" numTriggered="1" lastMonotonicDay="6" lastDate="2025/08/15 21:47"/>
+            <conversation uniqueId="3aa5eab000" numTriggered="1" lastMonotonicDay="6" lastDate="2025/08/15 21:48"/>
+            <conversation uniqueId="07ab71a10f" numTriggered="4" lastMonotonicDay="6" lastDate="2025/08/15 21:49"/>
+        </player>
+    </npc>
+</npcs>
