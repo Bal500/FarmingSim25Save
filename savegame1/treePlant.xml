@@ -1,2 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<treePlant/>
+<treePlant>
+    <tree treeType="DEADWOOD" position="742.0000 76.9533 95.0000" rotation="180.0000 2.8300 -180.0000" growthStateI="1" isGrowing="false" splitShapeFileId="1"/>
+    <tree treeType="DEADWOOD" position="782.0000 79.6265 23.0000" rotation="180.0000 3.1760 -180.0000" growthStateI="1" isGrowing="false" splitShapeFileId="2"/>
+    <tree treeType="DEADWOOD" position="855.0000 76.3113 71.0000" rotation="0.0000 -33.9620 0.0000" growthStateI="1" isGrowing="false" splitShapeFileId="3"/>
+    <tree treeType="DEADWOOD" position="776.0000 74.1945 102.0000" rotation="180.0000 -17.8620 180.0000" growthStateI="1" isGrowing="false" splitShapeFileId="4"/>
+    <tree treeType="DEADWOOD" position="734.0000 77.3969 87.0000" rotation="0.0000 56.4190 0.0000" growthStateI="1" isGrowing="false" splitShapeFileId="5"/>
+    <tree treeType="DEADWOOD" position="791.0000 79.3230 1.0000" rotation="0.0000 -69.2780 0.0000" growthStateI="1" isGrowing="false" splitShapeFileId="6"/>
+    <tree treeType="DEADWOOD" position="845.0000 77.7821 59.0000" rotation="0.0000 -11.3890 0.0000" growthStateI="1" isGrowing="false" splitShapeFileId="7"/>
+</treePlant>

@@ -5,8 +5,8 @@
         <creationDate>2025-08-15</creationDate>
         <mapId>MapEU</mapId>
         <mapTitle>Zielonka</mapTitle>
-        <saveDateFormatted>20/08/2025</saveDateFormatted>
-        <saveDate>2025-08-20</saveDate>
+        <saveDateFormatted>02/09/2025</saveDateFormatted>
+        <saveDate>2025-09-02</saveDate>
         <initialMoney>500000</initialMoney>
         <initialLoan>0</initialLoan>
         <economicDifficulty>NORMAL</economicDifficulty>
@@ -58,13 +58,13 @@
         <shownHints></shownHints>
     </introductionHelp>
     <statistics>
-        <money>18722</money>
-        <playTime>74.937355</playTime>
+        <money>886</money>
+        <playTime>38.658989</playTime>
     </statistics>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
     </mapsSplitShapeFileIds>
-    <slotSystem slotUsage="684"/>
+    <slotSystem slotUsage="692"/>
     <mod modName="pdlc_nexatPack" title="NEXAT Pack" version="1.1.0.0" required="false" fileHash="98b40424153679c79c75f0bfe0a0d274"/>
     <mod modName="pdlc_plainsAndPrairiesPack" title="Plains &amp; Prairies Pack" version="1.1.0.0" required="false" fileHash="cb72a5f9cf9fdf2e329c17b11f8f97da"/>
     <mod modName="pdlc_macDonPack" title="MacDon Pack" version="1.1.0.0" required="false" fileHash="a910fbe59bd919187cacbfc7b63ec5a6"/>
